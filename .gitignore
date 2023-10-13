@@ -1,0 +1,5 @@
+__pycache__
+/venv
+templates/welcome-email.html
+config.py
+.env
